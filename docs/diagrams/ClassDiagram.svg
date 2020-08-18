@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="974px" preserveAspectRatio="none" style="width:1356px;height:974px;" version="1.1" viewBox="0 0 1356 974" width="1356px" zoomAndPan="magnify"><defs><filter height="300%" id="fjhda2t7assp6" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[70191675c816285bc4816d9199bacb3f]
+cluster View.Gui--><polygon fill="#FFFFFF" filter="url(#fjhda2t7assp6)" points="630,162,697,162,704,185.6094,802,185.6094,802,276,630,276,630,162" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="630" x2="704" y1="185.6094" y2="185.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="61" x="634" y="178.5332">View.Gui</text><!--MD5=[d32996761c87feb9b477a247db45df9a]
+cluster Business.File--><polygon fill="#FFFFFF" filter="url(#fjhda2t7assp6)" points="566,314,667,314,674,337.6094,866,337.6094,866,428,566,428,566,314" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="566" x2="674" y1="337.6094" y2="337.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="95" x="570" y="330.5332">Business.File</text><!--MD5=[8353171209af5748f899bf3e5b711945]
+cluster Business.Convert--><polygon fill="#FFFFFF" filter="url(#fjhda2t7assp6)" points="126,314,258,314,265,337.6094,542,337.6094,542,428,126,428,126,314" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="126" x2="265" y1="337.6094" y2="337.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="126" x="130" y="330.5332">Business.Convert</text><!--MD5=[961c546889ca45d8ce60856a68efe1a6]
+cluster Business.Reflection--><polygon fill="#FFFFFF" filter="url(#fjhda2t7assp6)" points="890,300,1037,300,1044,323.6094,1334,323.6094,1334,442,890,442,890,300" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="890" x2="1044" y1="323.6094" y2="323.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="141" x="894" y="316.5332">Business.Reflection</text><!--MD5=[0d6ac628d8f27456d81b2366edbc9666]
+cluster Business.Api--><polygon fill="#FFFFFF" filter="url(#fjhda2t7assp6)" points="214,162,311,162,318,185.6094,454,185.6094,454,276,214,276,214,162" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="214" x2="318" y1="185.6094" y2="185.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="91" x="218" y="178.5332">Business.Api</text><!--MD5=[b988f23d4ad78ae41951319326c3e7a5]
+cluster Common.Util--><polygon fill="#FFFFFF" filter="url(#fjhda2t7assp6)" points="627,24,721,24,728,47.6094,805,47.6094,805,138,627,138,627,24" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="627" x2="728" y1="47.6094" y2="47.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="88" x="631" y="40.5332">Common.Util</text><!--MD5=[27453571d9d87b1431cdcbed4cfe5432]
+cluster Common.Data--><polygon fill="#FFFFFF" filter="url(#fjhda2t7assp6)" points="22,466,124,466,131,489.6094,634,489.6094,634,962,22,962,22,466" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="22" x2="131" y1="489.6094" y2="489.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="96" x="26" y="482.5332">Common.Data</text><!--MD5=[175f95e045c1a44aed0b30df3abe0e5c]
+class Program--><rect fill="#FEFECE" filter="url(#fjhda2t7assp6)" height="61.8359" id="Program" style="stroke: #A80036; stroke-width: 1.5;" width="140" x="646" y="198"/><ellipse cx="688" cy="214" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M690.7656,209.875 Q690.9219,209.6563 691.1094,209.5469 Q691.2969,209.4375 691.5156,209.4375 Q691.8906,209.4375 692.125,209.6953 Q692.3594,209.9531 692.3594,210.5625 L692.3594,212.0156 Q692.3594,212.625 692.125,212.8906 Q691.8906,213.1563 691.5156,213.1563 Q691.1719,213.1563 690.9688,212.9531 Q690.7656,212.7656 690.6563,212.25 Q690.6094,211.8906 690.4219,211.7031 Q690.0938,211.3281 689.4844,211.1094 Q688.875,210.8906 688.25,210.8906 Q687.4844,210.8906 686.8516,211.2188 Q686.2188,211.5469 685.7266,212.2969 Q685.2344,213.0469 685.2344,214.0781 L685.2344,215.1719 Q685.2344,216.4063 686.125,217.2266 Q687.0156,218.0469 688.6094,218.0469 Q689.5469,218.0469 690.2031,217.7969 Q690.5938,217.6406 691.0156,217.2031 Q691.2813,216.9375 691.4297,216.8594 Q691.5781,216.7813 691.7813,216.7813 Q692.1094,216.7813 692.3672,217.0391 Q692.625,217.2969 692.625,217.6406 Q692.625,217.9844 692.2813,218.3906 Q691.7813,218.9688 690.9844,219.2969 Q689.9063,219.75 688.6094,219.75 Q687.0938,219.75 685.8906,219.125 Q684.9063,218.625 684.2188,217.5547 Q683.5313,216.4844 683.5313,215.2031 L683.5313,214.0469 Q683.5313,212.7188 684.1484,211.5703 Q684.7656,210.4219 685.8594,209.8047 Q686.9531,209.1875 688.1875,209.1875 Q688.9219,209.1875 689.5703,209.3516 Q690.2188,209.5156 690.7656,209.875 Z "/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="48" x="708" y="218.9102">Program</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="647" x2="785" y1="230" y2="230"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="647" x2="785" y1="238" y2="238"/><ellipse cx="657" cy="249" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="114" x="666" y="253.4189">Main(string[] args): void</text><!--MD5=[b811fbbbbcb2d5dc38e0085467cd8514]
+class FileWriter--><rect fill="#FEFECE" filter="url(#fjhda2t7assp6)" height="61.8359" id="FileWriter" style="stroke: #A80036; stroke-width: 1.5;" width="267" x="582.5" y="350"/><ellipse cx="685.75" cy="366" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M688.5156,361.875 Q688.6719,361.6563 688.8594,361.5469 Q689.0469,361.4375 689.2656,361.4375 Q689.6406,361.4375 689.875,361.6953 Q690.1094,361.9531 690.1094,362.5625 L690.1094,364.0156 Q690.1094,364.625 689.875,364.8906 Q689.6406,365.1563 689.2656,365.1563 Q688.9219,365.1563 688.7188,364.9531 Q688.5156,364.7656 688.4063,364.25 Q688.3594,363.8906 688.1719,363.7031 Q687.8438,363.3281 687.2344,363.1094 Q686.625,362.8906 686,362.8906 Q685.2344,362.8906 684.6016,363.2188 Q683.9688,363.5469 683.4766,364.2969 Q682.9844,365.0469 682.9844,366.0781 L682.9844,367.1719 Q682.9844,368.4063 683.875,369.2266 Q684.7656,370.0469 686.3594,370.0469 Q687.2969,370.0469 687.9531,369.7969 Q688.3438,369.6406 688.7656,369.2031 Q689.0313,368.9375 689.1797,368.8594 Q689.3281,368.7813 689.5313,368.7813 Q689.8594,368.7813 690.1172,369.0391 Q690.375,369.2969 690.375,369.6406 Q690.375,369.9844 690.0313,370.3906 Q689.5313,370.9688 688.7344,371.2969 Q687.6563,371.75 686.3594,371.75 Q684.8438,371.75 683.6406,371.125 Q682.6563,370.625 681.9688,369.5547 Q681.2813,368.4844 681.2813,367.2031 L681.2813,366.0469 Q681.2813,364.7188 681.8984,363.5703 Q682.5156,362.4219 683.6094,361.8047 Q684.7031,361.1875 685.9375,361.1875 Q686.6719,361.1875 687.3203,361.3516 Q687.9688,361.5156 688.5156,361.875 Z "/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="52" x="706.25" y="370.9102">FileWriter</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="583.5" x2="848.5" y1="382" y2="382"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="583.5" x2="848.5" y1="390" y2="390"/><ellipse cx="593.5" cy="401" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="241" x="602.5" y="405.4189">CreatePlantUmlFile(string fullPath, string text): void</text><!--MD5=[a4f605a8a10e0e21dcf75148999f932c]
+class PlantUmlConverter--><rect fill="#FEFECE" filter="url(#fjhda2t7assp6)" height="61.8359" id="PlantUmlConverter" style="stroke: #A80036; stroke-width: 1.5;" width="383" x="142.5" y="350"/><ellipse cx="277.75" cy="366" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M280.5156,361.875 Q280.6719,361.6563 280.8594,361.5469 Q281.0469,361.4375 281.2656,361.4375 Q281.6406,361.4375 281.875,361.6953 Q282.1094,361.9531 282.1094,362.5625 L282.1094,364.0156 Q282.1094,364.625 281.875,364.8906 Q281.6406,365.1563 281.2656,365.1563 Q280.9219,365.1563 280.7188,364.9531 Q280.5156,364.7656 280.4063,364.25 Q280.3594,363.8906 280.1719,363.7031 Q279.8438,363.3281 279.2344,363.1094 Q278.625,362.8906 278,362.8906 Q277.2344,362.8906 276.6016,363.2188 Q275.9688,363.5469 275.4766,364.2969 Q274.9844,365.0469 274.9844,366.0781 L274.9844,367.1719 Q274.9844,368.4063 275.875,369.2266 Q276.7656,370.0469 278.3594,370.0469 Q279.2969,370.0469 279.9531,369.7969 Q280.3438,369.6406 280.7656,369.2031 Q281.0313,368.9375 281.1797,368.8594 Q281.3281,368.7813 281.5313,368.7813 Q281.8594,368.7813 282.1172,369.0391 Q282.375,369.2969 282.375,369.6406 Q282.375,369.9844 282.0313,370.3906 Q281.5313,370.9688 280.7344,371.2969 Q279.6563,371.75 278.3594,371.75 Q276.8438,371.75 275.6406,371.125 Q274.6563,370.625 273.9688,369.5547 Q273.2813,368.4844 273.2813,367.2031 L273.2813,366.0469 Q273.2813,364.7188 273.8984,363.5703 Q274.5156,362.4219 275.6094,361.8047 Q276.7031,361.1875 277.9375,361.1875 Q278.6719,361.1875 279.3203,361.3516 Q279.9688,361.5156 280.5156,361.875 Z "/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="104" x="298.25" y="370.9102">PlantUmlConverter</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="143.5" x2="524.5" y1="382" y2="382"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="143.5" x2="524.5" y1="390" y2="390"/><ellipse cx="153.5" cy="401" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="357" x="162.5" y="405.4189">Convert(ICollection&lt;Assembly&gt; assemblies): Icollection&lt;ProjectAssembly&gt;</text><!--MD5=[8b3d5949cc5ae5c0de2de9d81fcdf345]
+class Reflector--><rect fill="#FEFECE" filter="url(#fjhda2t7assp6)" height="89.5078" id="Reflector" style="stroke: #A80036; stroke-width: 1.5;" width="412" x="906" y="336"/><ellipse cx="1083.25" cy="352" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M1086.0156,347.875 Q1086.1719,347.6563 1086.3594,347.5469 Q1086.5469,347.4375 1086.7656,347.4375 Q1087.1406,347.4375 1087.375,347.6953 Q1087.6094,347.9531 1087.6094,348.5625 L1087.6094,350.0156 Q1087.6094,350.625 1087.375,350.8906 Q1087.1406,351.1563 1086.7656,351.1563 Q1086.4219,351.1563 1086.2188,350.9531 Q1086.0156,350.7656 1085.9063,350.25 Q1085.8594,349.8906 1085.6719,349.7031 Q1085.3438,349.3281 1084.7344,349.1094 Q1084.125,348.8906 1083.5,348.8906 Q1082.7344,348.8906 1082.1016,349.2188 Q1081.4688,349.5469 1080.9766,350.2969 Q1080.4844,351.0469 1080.4844,352.0781 L1080.4844,353.1719 Q1080.4844,354.4063 1081.375,355.2266 Q1082.2656,356.0469 1083.8594,356.0469 Q1084.7969,356.0469 1085.4531,355.7969 Q1085.8438,355.6406 1086.2656,355.2031 Q1086.5313,354.9375 1086.6797,354.8594 Q1086.8281,354.7813 1087.0313,354.7813 Q1087.3594,354.7813 1087.6172,355.0391 Q1087.875,355.2969 1087.875,355.6406 Q1087.875,355.9844 1087.5313,356.3906 Q1087.0313,356.9688 1086.2344,357.2969 Q1085.1563,357.75 1083.8594,357.75 Q1082.3438,357.75 1081.1406,357.125 Q1080.1563,356.625 1079.4688,355.5547 Q1078.7813,354.4844 1078.7813,353.2031 L1078.7813,352.0469 Q1078.7813,350.7188 1079.3984,349.5703 Q1080.0156,348.4219 1081.1094,347.8047 Q1082.2031,347.1875 1083.4375,347.1875 Q1084.1719,347.1875 1084.8203,347.3516 Q1085.4688,347.5156 1086.0156,347.875 Z "/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="49" x="1103.75" y="356.9102">Reflector</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="907" x2="1317" y1="368" y2="368"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="907" x2="1317" y1="376" y2="376"/><ellipse cx="917" cy="387" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="196" x="926" y="391.4189">Start(string entryPointAssemblyUrl): void</text><rect fill="#F24D5C" height="6" style="stroke: #C82930; stroke-width: 1.0;" width="6" x="914" y="397.8359"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="386" x="926" y="405.2549">ContainsEntryPoint(string entryPointAssemblyUrl, out Type entryPointType): bool</text><rect fill="#F24D5C" height="6" style="stroke: #C82930; stroke-width: 1.0;" width="6" x="914" y="411.6719"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="313" x="926" y="419.0908">LoadAllAssemblies(Type entryPointType): ICollection&lt;Assembly&gt;</text><!--MD5=[adeef2c07ef4d865eb36040661a853c1]
+class IConverter--><rect fill="#FEFECE" filter="url(#fjhda2t7assp6)" height="61.8359" id="IConverter" style="stroke: #A80036; stroke-width: 1.5;" width="207" x="230.5" y="198"/><ellipse cx="300.75" cy="214" fill="#B4A7E5" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M301.7031,210.6406 L301.7031,217.2969 L303.4219,217.2969 Q304.0313,217.2969 304.2969,217.5313 Q304.5625,217.7656 304.5625,218.1563 Q304.5625,218.5313 304.2969,218.7656 Q304.0313,219 303.4219,219 L298.2813,219 Q297.6719,219 297.4063,218.7656 Q297.1406,218.5313 297.1406,218.1406 Q297.1406,217.7656 297.4063,217.5313 Q297.6719,217.2969 298.2813,217.2969 L300,217.2969 L300,210.6406 L298.2813,210.6406 Q297.6719,210.6406 297.4063,210.4063 Q297.1406,210.1719 297.1406,209.7813 Q297.1406,209.4063 297.4063,209.1719 Q297.6719,208.9375 298.2813,208.9375 L303.4219,208.9375 Q304.0313,208.9375 304.2969,209.1719 Q304.5625,209.4063 304.5625,209.7813 Q304.5625,210.1719 304.2969,210.4063 Q304.0313,210.6406 303.4219,210.6406 L301.7031,210.6406 Z "/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="58" x="321.25" y="218.9102">IConverter</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="231.5" x2="436.5" y1="230" y2="230"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="231.5" x2="436.5" y1="238" y2="238"/><ellipse cx="241.5" cy="249" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="181" x="250.5" y="253.4189">Convert(ICollection&lt;Assembly&gt; asse)</text><!--MD5=[cb76d06c6fdfe0f2a3895121cd174d5f]
+class ApplicationSettings--><rect fill="#FEFECE" filter="url(#fjhda2t7assp6)" height="61.8359" id="ApplicationSettings" style="stroke: #A80036; stroke-width: 1.5;" width="145" x="643.5" y="60"/><ellipse cx="662.1" cy="76" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M664.8656,71.875 Q665.0219,71.6563 665.2094,71.5469 Q665.3969,71.4375 665.6156,71.4375 Q665.9906,71.4375 666.225,71.6953 Q666.4594,71.9531 666.4594,72.5625 L666.4594,74.0156 Q666.4594,74.625 666.225,74.8906 Q665.9906,75.1563 665.6156,75.1563 Q665.2719,75.1563 665.0688,74.9531 Q664.8656,74.7656 664.7563,74.25 Q664.7094,73.8906 664.5219,73.7031 Q664.1938,73.3281 663.5844,73.1094 Q662.975,72.8906 662.35,72.8906 Q661.5844,72.8906 660.9516,73.2188 Q660.3188,73.5469 659.8266,74.2969 Q659.3344,75.0469 659.3344,76.0781 L659.3344,77.1719 Q659.3344,78.4063 660.225,79.2266 Q661.1156,80.0469 662.7094,80.0469 Q663.6469,80.0469 664.3031,79.7969 Q664.6938,79.6406 665.1156,79.2031 Q665.3813,78.9375 665.5297,78.8594 Q665.6781,78.7813 665.8813,78.7813 Q666.2094,78.7813 666.4672,79.0391 Q666.725,79.2969 666.725,79.6406 Q666.725,79.9844 666.3813,80.3906 Q665.8813,80.9688 665.0844,81.2969 Q664.0063,81.75 662.7094,81.75 Q661.1938,81.75 659.9906,81.125 Q659.0063,80.625 658.3188,79.5547 Q657.6313,78.4844 657.6313,77.2031 L657.6313,76.0469 Q657.6313,74.7188 658.2484,73.5703 Q658.8656,72.4219 659.9594,71.8047 Q661.0531,71.1875 662.2875,71.1875 Q663.0219,71.1875 663.6703,71.3516 Q664.3188,71.5156 664.8656,71.875 Z "/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="105" x="676.9" y="80.9102">ApplicationSettings</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="644.5" x2="787.5" y1="92" y2="92"/><ellipse cx="654.5" cy="103" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="119" x="663.5" y="107.4189">Base-Namespace: string</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="644.5" x2="787.5" y1="113.8359" y2="113.8359"/><!--MD5=[036c92af7ed2e6f7cfab44fc9bc251a6]
+class ProjectAssembly--><rect fill="#FEFECE" filter="url(#fjhda2t7assp6)" height="103.3438" id="ProjectAssembly" style="stroke: #A80036; stroke-width: 1.5;" width="192" x="238" y="502"/><ellipse cx="283.75" cy="518" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M286.5156,513.875 Q286.6719,513.6563 286.8594,513.5469 Q287.0469,513.4375 287.2656,513.4375 Q287.6406,513.4375 287.875,513.6953 Q288.1094,513.9531 288.1094,514.5625 L288.1094,516.0156 Q288.1094,516.625 287.875,516.8906 Q287.6406,517.1563 287.2656,517.1563 Q286.9219,517.1563 286.7188,516.9531 Q286.5156,516.7656 286.4063,516.25 Q286.3594,515.8906 286.1719,515.7031 Q285.8438,515.3281 285.2344,515.1094 Q284.625,514.8906 284,514.8906 Q283.2344,514.8906 282.6016,515.2188 Q281.9688,515.5469 281.4766,516.2969 Q280.9844,517.0469 280.9844,518.0781 L280.9844,519.1719 Q280.9844,520.4063 281.875,521.2266 Q282.7656,522.0469 284.3594,522.0469 Q285.2969,522.0469 285.9531,521.7969 Q286.3438,521.6406 286.7656,521.2031 Q287.0313,520.9375 287.1797,520.8594 Q287.3281,520.7813 287.5313,520.7813 Q287.8594,520.7813 288.1172,521.0391 Q288.375,521.2969 288.375,521.6406 Q288.375,521.9844 288.0313,522.3906 Q287.5313,522.9688 286.7344,523.2969 Q285.6563,523.75 284.3594,523.75 Q282.8438,523.75 281.6406,523.125 Q280.6563,522.625 279.9688,521.5547 Q279.2813,520.4844 279.2813,519.2031 L279.2813,518.0469 Q279.2813,516.7188 279.8984,515.5703 Q280.5156,514.4219 281.6094,513.8047 Q282.7031,513.1875 283.9375,513.1875 Q284.6719,513.1875 285.3203,513.3516 Q285.9688,513.5156 286.5156,513.875 Z "/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="92" x="304.25" y="522.9102">ProjectAssembly</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="239" x2="429" y1="534" y2="534"/><ellipse cx="249" cy="545" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="132" x="258" y="549.4189">Classes: ICollection&lt;Class&gt;</text><ellipse cx="249" cy="558.8359" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="82" x="258" y="563.2549">Value: Assembly</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="239" x2="429" y1="569.6719" y2="569.6719"/><ellipse cx="249" cy="580.6719" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="166" x="258" y="585.0908">ProjectAssembly(Assembly value)</text><ellipse cx="249" cy="594.5078" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="81" x="258" y="598.9268">ToString(): string</text><!--MD5=[41e1c6cf192918703501b24b2053926c]
+class Class--><rect fill="#FEFECE" filter="url(#fjhda2t7assp6)" height="131.0156" id="Class" style="stroke: #A80036; stroke-width: 1.5;" width="212" x="228" y="665"/><ellipse cx="313.25" cy="681" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M316.0156,676.875 Q316.1719,676.6563 316.3594,676.5469 Q316.5469,676.4375 316.7656,676.4375 Q317.1406,676.4375 317.375,676.6953 Q317.6094,676.9531 317.6094,677.5625 L317.6094,679.0156 Q317.6094,679.625 317.375,679.8906 Q317.1406,680.1563 316.7656,680.1563 Q316.4219,680.1563 316.2188,679.9531 Q316.0156,679.7656 315.9063,679.25 Q315.8594,678.8906 315.6719,678.7031 Q315.3438,678.3281 314.7344,678.1094 Q314.125,677.8906 313.5,677.8906 Q312.7344,677.8906 312.1016,678.2188 Q311.4688,678.5469 310.9766,679.2969 Q310.4844,680.0469 310.4844,681.0781 L310.4844,682.1719 Q310.4844,683.4063 311.375,684.2266 Q312.2656,685.0469 313.8594,685.0469 Q314.7969,685.0469 315.4531,684.7969 Q315.8438,684.6406 316.2656,684.2031 Q316.5313,683.9375 316.6797,683.8594 Q316.8281,683.7813 317.0313,683.7813 Q317.3594,683.7813 317.6172,684.0391 Q317.875,684.2969 317.875,684.6406 Q317.875,684.9844 317.5313,685.3906 Q317.0313,685.9688 316.2344,686.2969 Q315.1563,686.75 313.8594,686.75 Q312.3438,686.75 311.1406,686.125 Q310.1563,685.625 309.4688,684.5547 Q308.7813,683.4844 308.7813,682.2031 L308.7813,681.0469 Q308.7813,679.7188 309.3984,678.5703 Q310.0156,677.4219 311.1094,676.8047 Q312.2031,676.1875 313.4375,676.1875 Q314.1719,676.1875 314.8203,676.3516 Q315.4688,676.5156 316.0156,676.875 Z "/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="33" x="333.75" y="685.9102">Class</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="229" x2="439" y1="697" y2="697"/><ellipse cx="239" cy="708" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="156" x="248" y="712.4189">Properties: ICollection&lt;Property&gt;</text><ellipse cx="239" cy="721.8359" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="186" x="248" y="726.2549">Constructors: ICollection&lt;Constructor&gt;</text><ellipse cx="239" cy="735.6719" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="142" x="248" y="740.0908">Methods: ICollection&lt;Method&gt;</text><ellipse cx="239" cy="749.5078" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="58" x="248" y="753.9268">Value: Type</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="229" x2="439" y1="760.3438" y2="760.3438"/><ellipse cx="239" cy="771.3438" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="88" x="248" y="775.7627">Class(Type value)</text><ellipse cx="239" cy="785.1797" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="81" x="248" y="789.5986">ToString(): string</text><!--MD5=[6b626634f3bb0842bebd5e499c80b711]
+class Property--><rect fill="#FEFECE" filter="url(#fjhda2t7assp6)" height="89.5078" id="Property" style="stroke: #A80036; stroke-width: 1.5;" width="163" x="38.5" y="856"/><ellipse cx="93.25" cy="872" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M96.0156,867.875 Q96.1719,867.6563 96.3594,867.5469 Q96.5469,867.4375 96.7656,867.4375 Q97.1406,867.4375 97.375,867.6953 Q97.6094,867.9531 97.6094,868.5625 L97.6094,870.0156 Q97.6094,870.625 97.375,870.8906 Q97.1406,871.1563 96.7656,871.1563 Q96.4219,871.1563 96.2188,870.9531 Q96.0156,870.7656 95.9063,870.25 Q95.8594,869.8906 95.6719,869.7031 Q95.3438,869.3281 94.7344,869.1094 Q94.125,868.8906 93.5,868.8906 Q92.7344,868.8906 92.1016,869.2188 Q91.4688,869.5469 90.9766,870.2969 Q90.4844,871.0469 90.4844,872.0781 L90.4844,873.1719 Q90.4844,874.4063 91.375,875.2266 Q92.2656,876.0469 93.8594,876.0469 Q94.7969,876.0469 95.4531,875.7969 Q95.8438,875.6406 96.2656,875.2031 Q96.5313,874.9375 96.6797,874.8594 Q96.8281,874.7813 97.0313,874.7813 Q97.3594,874.7813 97.6172,875.0391 Q97.875,875.2969 97.875,875.6406 Q97.875,875.9844 97.5313,876.3906 Q97.0313,876.9688 96.2344,877.2969 Q95.1563,877.75 93.8594,877.75 Q92.3438,877.75 91.1406,877.125 Q90.1563,876.625 89.4688,875.5547 Q88.7813,874.4844 88.7813,873.2031 L88.7813,872.0469 Q88.7813,870.7188 89.3984,869.5703 Q90.0156,868.4219 91.1094,867.8047 Q92.2031,867.1875 93.4375,867.1875 Q94.1719,867.1875 94.8203,867.3516 Q95.4688,867.5156 96.0156,867.875 Z "/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="45" x="113.75" y="876.9102">Property</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="39.5" x2="200.5" y1="888" y2="888"/><ellipse cx="49.5" cy="899" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="93" x="58.5" y="903.4189">Value: PropertyInfo</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="39.5" x2="200.5" y1="909.8359" y2="909.8359"/><ellipse cx="49.5" cy="920.8359" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="137" x="58.5" y="925.2549">Property(PropertyInfo value)</text><ellipse cx="49.5" cy="934.6719" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="81" x="58.5" y="939.0908">ToString(): string</text><!--MD5=[7554cf206c545fbc8647d10b6bbf29cb]
+class Constructor--><rect fill="#FEFECE" filter="url(#fjhda2t7assp6)" height="89.5078" id="Constructor" style="stroke: #A80036; stroke-width: 1.5;" width="195" x="236.5" y="856"/><ellipse cx="297.75" cy="872" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M300.5156,867.875 Q300.6719,867.6563 300.8594,867.5469 Q301.0469,867.4375 301.2656,867.4375 Q301.6406,867.4375 301.875,867.6953 Q302.1094,867.9531 302.1094,868.5625 L302.1094,870.0156 Q302.1094,870.625 301.875,870.8906 Q301.6406,871.1563 301.2656,871.1563 Q300.9219,871.1563 300.7188,870.9531 Q300.5156,870.7656 300.4063,870.25 Q300.3594,869.8906 300.1719,869.7031 Q299.8438,869.3281 299.2344,869.1094 Q298.625,868.8906 298,868.8906 Q297.2344,868.8906 296.6016,869.2188 Q295.9688,869.5469 295.4766,870.2969 Q294.9844,871.0469 294.9844,872.0781 L294.9844,873.1719 Q294.9844,874.4063 295.875,875.2266 Q296.7656,876.0469 298.3594,876.0469 Q299.2969,876.0469 299.9531,875.7969 Q300.3438,875.6406 300.7656,875.2031 Q301.0313,874.9375 301.1797,874.8594 Q301.3281,874.7813 301.5313,874.7813 Q301.8594,874.7813 302.1172,875.0391 Q302.375,875.2969 302.375,875.6406 Q302.375,875.9844 302.0313,876.3906 Q301.5313,876.9688 300.7344,877.2969 Q299.6563,877.75 298.3594,877.75 Q296.8438,877.75 295.6406,877.125 Q294.6563,876.625 293.9688,875.5547 Q293.2813,874.4844 293.2813,873.2031 L293.2813,872.0469 Q293.2813,870.7188 293.8984,869.5703 Q294.5156,868.4219 295.6094,867.8047 Q296.7031,867.1875 297.9375,867.1875 Q298.6719,867.1875 299.3203,867.3516 Q299.9688,867.5156 300.5156,867.875 Z "/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="64" x="318.25" y="876.9102">Constructor</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="237.5" x2="430.5" y1="888" y2="888"/><ellipse cx="247.5" cy="899" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="109" x="256.5" y="903.4189">Value: ConstructorInfo</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="237.5" x2="430.5" y1="909.8359" y2="909.8359"/><ellipse cx="247.5" cy="920.8359" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="169" x="256.5" y="925.2549">Constructor(ConstructorInfo value)</text><ellipse cx="247.5" cy="934.6719" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="81" x="256.5" y="939.0908">ToString(): string</text><!--MD5=[ed17eb27918d6d975aac91b8ab0bf633]
+class Method--><rect fill="#FEFECE" filter="url(#fjhda2t7assp6)" height="89.5078" id="Method" style="stroke: #A80036; stroke-width: 1.5;" width="151" x="466.5" y="856"/><ellipse cx="517.75" cy="872" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M520.5156,867.875 Q520.6719,867.6563 520.8594,867.5469 Q521.0469,867.4375 521.2656,867.4375 Q521.6406,867.4375 521.875,867.6953 Q522.1094,867.9531 522.1094,868.5625 L522.1094,870.0156 Q522.1094,870.625 521.875,870.8906 Q521.6406,871.1563 521.2656,871.1563 Q520.9219,871.1563 520.7188,870.9531 Q520.5156,870.7656 520.4063,870.25 Q520.3594,869.8906 520.1719,869.7031 Q519.8438,869.3281 519.2344,869.1094 Q518.625,868.8906 518,868.8906 Q517.2344,868.8906 516.6016,869.2188 Q515.9688,869.5469 515.4766,870.2969 Q514.9844,871.0469 514.9844,872.0781 L514.9844,873.1719 Q514.9844,874.4063 515.875,875.2266 Q516.7656,876.0469 518.3594,876.0469 Q519.2969,876.0469 519.9531,875.7969 Q520.3438,875.6406 520.7656,875.2031 Q521.0313,874.9375 521.1797,874.8594 Q521.3281,874.7813 521.5313,874.7813 Q521.8594,874.7813 522.1172,875.0391 Q522.375,875.2969 522.375,875.6406 Q522.375,875.9844 522.0313,876.3906 Q521.5313,876.9688 520.7344,877.2969 Q519.6563,877.75 518.3594,877.75 Q516.8438,877.75 515.6406,877.125 Q514.6563,876.625 513.9688,875.5547 Q513.2813,874.4844 513.2813,873.2031 L513.2813,872.0469 Q513.2813,870.7188 513.8984,869.5703 Q514.5156,868.4219 515.6094,867.8047 Q516.7031,867.1875 517.9375,867.1875 Q518.6719,867.1875 519.3203,867.3516 Q519.9688,867.5156 520.5156,867.875 Z "/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="40" x="538.25" y="876.9102">Method</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="467.5" x2="616.5" y1="888" y2="888"/><ellipse cx="477.5" cy="899" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="87" x="486.5" y="903.4189">Value: MethodInfo</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="467.5" x2="616.5" y1="909.8359" y2="909.8359"/><ellipse cx="477.5" cy="920.8359" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="125" x="486.5" y="925.2549">Method(MethodInfo value)</text><ellipse cx="477.5" cy="934.6719" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="81" x="486.5" y="939.0908">ToString(): string</text><!--MD5=[43f753a90055e479b5be536cc5a42091]
+reverse link ProjectAssembly to Class--><path d="M334,618.181 C334,633.411 334,649.683 334,664.952 " fill="none" id="ProjectAssembly&lt;-Class" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="334,605.117,330,611.117,334,617.117,338,611.117,334,605.117" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[7f3ccc0ab276f1779205cd84e1500141]
+reverse link Class to Method--><path d="M424.018,804.423 C445.638,821.938 468.079,840.117 487.512,855.859 " fill="none" id="Class&lt;-Method" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="413.823,796.165,415.9674,803.0499,423.1475,803.7185,421.003,796.8336,413.823,796.165" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[942b8d92c6bf05befe1e4907ea487f29]
+reverse link Class to Constructor--><path d="M334,809.432 C334,825.371 334,841.613 334,855.859 " fill="none" id="Class&lt;-Constructor" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="334,796.165,330,802.165,334,808.165,338,802.165,334,796.165" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[9aba78cb667945368201f56aaaacefe3]
+reverse link Class to Property--><path d="M241.385,804.423 C219.141,821.938 196.053,840.117 176.06,855.859 " fill="none" id="Class&lt;-Property" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="251.874,796.165,244.6854,796.7342,242.446,803.5888,249.6346,803.0196,251.874,796.165" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[2fcda3c7760aa5f834aa61e8452c1c24]
+link Program to PlantUmlConverter--><path d="M645.935,257.512 C580.834,283.076 483.891,321.142 415.386,348.042 " fill="none" id="Program-&gt;PlantUmlConverter" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="410.503,349.959,420.3423,350.3936,415.1572,348.1319,417.4189,342.9468,410.503,349.959" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[66e29dcc1b0fcf0dfdc27b82b7c135f5]
+link Program to Reflector--><path d="M786.341,256.644 C842.99,278.102 923.943,308.766 990.963,334.153 " fill="none" id="Program-&gt;Reflector" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="995.764,335.971,988.7649,329.0419,991.0883,334.1996,985.9306,336.523,995.764,335.971" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[0db2fe5444b31cecadb4291f6d7d6ae6]
+link Program to FileWriter--><path d="M716,260.355 C716,284.833 716,319.286 716,344.939 " fill="none" id="Program-&gt;FileWriter" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="716,349.947,720,340.947,716,344.947,712,340.947,716,349.947" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[e127692b9a4bc687f355b87177b41ade]
+link PlantUmlConverter to ProjectAssembly--><path d="M334,412.09 C334,435.399 334,468.351 334,496.475 " fill="none" id="PlantUmlConverter-&gt;ProjectAssembly" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="334,501.666,338,492.666,334,496.666,330,492.666,334,501.666" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[5ab08b503267172eedb502e96caa18ed]
+reverse link IConverter to PlantUmlConverter--><path d="M334,280.644 C334,303.667 334,330.125 334,349.947 " fill="none" id="IConverter&lt;-PlantUmlConverter" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="none" points="327,280.355,334,260.355,341,280.355,327,280.355" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[81c5575927ac3481b77d9a341b555802]
+reverse link ApplicationSettings to Program--><path d="M716,127.329 C716,149.227 716,177.056 716,197.902 " fill="none" id="ApplicationSettings&lt;-Program" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="716,122.183,712,131.183,716,127.183,720,131.183,716,122.183" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[c6a393d177ac64b544cf9eddc9fc65b0]
+@startuml ClassDiagram
+
+    ' View.Gui-Project
+    package View.Gui {
+        class Program {
+            + Main(string[] args): void
+        }
+    }
+
+    ' Business.File-Project
+    package Business.File {
+        class FileWriter {
+            + CreatePlantUmlFile(string fullPath, string text): void
+        }
+    }
+
+    ' Business.PlantUml-Project
+    package Business.Convert {
+        class PlantUmlConverter {
+            + Convert(ICollection<Assembly> assemblies): Icollection<ProjectAssembly>
+        }
+    }
+
+    ' Business.Reflection-Project
+    package Business.Reflection {
+        class Reflector {
+            + Start(string entryPointAssemblyUrl): void
+            - ContainsEntryPoint(string entryPointAssemblyUrl, out Type entryPointType): bool
+            - LoadAllAssemblies(Type entryPointType): ICollection<Assembly>
+        }
+    }
+
+    ' Business.Api-Project
+    package Business.Api {
+        interface IConverter {
+            + Convert(ICollection<Assembly> asse)
+        }
+    }
+
+    ' Common.Util-Project
+    package Common.Util {
+        class ApplicationSettings {
+            + Base-Namespace: string
+
+        }
+    }
+
+    ' Common.Data-Project
+    package Common.Data {
+        class ProjectAssembly {
+            + Classes: ICollection<Class>
+            + Value: Assembly
+
+            + ProjectAssembly(Assembly value)
+            + ToString(): string
+        }
+
+        class Class {
+            + Properties: ICollection<Property>
+            + Constructors: ICollection<Constructor>
+            + Methods: ICollection<Method>
+            + Value: Type
+
+            + Class(Type value)
+            + ToString(): string
+        }
+
+        class Property {
+            + Value: PropertyInfo
+
+            + Property(PropertyInfo value)
+            + ToString(): string
+        }
+
+        class Constructor {
+            + Value: ConstructorInfo
+
+            + Constructor(ConstructorInfo value)
+            + ToString(): string
+        }
+        
+        class Method {
+            + Value: MethodInfo
+            
+            + Method(MethodInfo value)
+            + ToString(): string
+        }
+
+        ' References in the same assembly
+        Class -down-* ProjectAssembly
+        Method -down-* Class
+        Constructor -down-* Class
+        Property -down-* Class
+    }
+
+    ' References through different assemblies
+    Program - -> PlantUmlConverter
+    Program - -> Reflector
+    Program - -> FileWriter
+    PlantUmlConverter -down-> ProjectAssembly
+    PlantUmlConverter .up.|> IConverter
+    Program -up-> ApplicationSettings
+
+@enduml
+
+@startuml ClassDiagram
+
+    package View.Gui {
+        class Program {
+            + Main(string[] args): void
+        }
+    }
+
+    package Business.File {
+        class FileWriter {
+            + CreatePlantUmlFile(string fullPath, string text): void
+        }
+    }
+
+    package Business.Convert {
+        class PlantUmlConverter {
+            + Convert(ICollection<Assembly> assemblies): Icollection<ProjectAssembly>
+        }
+    }
+
+    package Business.Reflection {
+        class Reflector {
+            + Start(string entryPointAssemblyUrl): void
+            - ContainsEntryPoint(string entryPointAssemblyUrl, out Type entryPointType): bool
+            - LoadAllAssemblies(Type entryPointType): ICollection<Assembly>
+        }
+    }
+
+    package Business.Api {
+        interface IConverter {
+            + Convert(ICollection<Assembly> asse)
+        }
+    }
+
+    package Common.Util {
+        class ApplicationSettings {
+            + Base-Namespace: string
+
+        }
+    }
+
+    package Common.Data {
+        class ProjectAssembly {
+            + Classes: ICollection<Class>
+            + Value: Assembly
+
+            + ProjectAssembly(Assembly value)
+            + ToString(): string
+        }
+
+        class Class {
+            + Properties: ICollection<Property>
+            + Constructors: ICollection<Constructor>
+            + Methods: ICollection<Method>
+            + Value: Type
+
+            + Class(Type value)
+            + ToString(): string
+        }
+
+        class Property {
+            + Value: PropertyInfo
+
+            + Property(PropertyInfo value)
+            + ToString(): string
+        }
+
+        class Constructor {
+            + Value: ConstructorInfo
+
+            + Constructor(ConstructorInfo value)
+            + ToString(): string
+        }
+        
+        class Method {
+            + Value: MethodInfo
+            
+            + Method(MethodInfo value)
+            + ToString(): string
+        }
+
+        Class -down-* ProjectAssembly
+        Method -down-* Class
+        Constructor -down-* Class
+        Property -down-* Class
+    }
+
+    Program - -> PlantUmlConverter
+    Program - -> Reflector
+    Program - -> FileWriter
+    PlantUmlConverter -down-> ProjectAssembly
+    PlantUmlConverter .up.|> IConverter
+    Program -up-> ApplicationSettings
+
+@enduml
+
+PlantUML version 1.2020.10(Sun May 17 11:35:57 CEST 2020)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 1.8.0_251-b08
+Operating System: Windows 10
+Default Encoding: Cp1252
+Language: de
+Country: CH
+--></g></svg>

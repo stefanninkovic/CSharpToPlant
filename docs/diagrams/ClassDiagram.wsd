@@ -1,0 +1,104 @@
+@startuml ClassDiagram
+
+    ' View.Gui-Project
+    package View.Gui {
+        class Program {
+            + Main(string[] args): void
+        }
+    }
+
+    ' Business.File-Project
+    package Business.File {
+        class FileWriter {
+            + CreatePlantUmlFile(string fullPath, string text): void
+        }
+    }
+
+    ' Business.PlantUml-Project
+    package Business.Convert {
+        class PlantUmlConverter {
+            + Convert(ICollection<Assembly> assemblies): Icollection<ProjectAssembly>
+        }
+    }
+
+    ' Business.Reflection-Project
+    package Business.Reflection {
+        class Reflector {
+            + Start(string entryPointAssemblyUrl): void
+            - ContainsEntryPoint(string entryPointAssemblyUrl, out Type entryPointType): bool
+            - LoadAllAssemblies(Type entryPointType): ICollection<Assembly>
+        }
+    }
+
+    ' Business.Api-Project
+    package Business.Api {
+        interface IConverter {
+            + Convert(ICollection<Assembly> asse)
+        }
+    }
+
+    ' Common.Util-Project
+    package Common.Util {
+        class ApplicationSettings {
+            + Base-Namespace: string
+
+        }
+    }
+
+    ' Common.Data-Project
+    package Common.Data {
+        class ProjectAssembly {
+            + Classes: ICollection<Class>
+            + Value: Assembly
+
+            + ProjectAssembly(Assembly value)
+            + ToString(): string
+        }
+
+        class Class {
+            + Properties: ICollection<Property>
+            + Constructors: ICollection<Constructor>
+            + Methods: ICollection<Method>
+            + Value: Type
+
+            + Class(Type value)
+            + ToString(): string
+        }
+
+        class Property {
+            + Value: PropertyInfo
+
+            + Property(PropertyInfo value)
+            + ToString(): string
+        }
+
+        class Constructor {
+            + Value: ConstructorInfo
+
+            + Constructor(ConstructorInfo value)
+            + ToString(): string
+        }
+        
+        class Method {
+            + Value: MethodInfo
+            
+            + Method(MethodInfo value)
+            + ToString(): string
+        }
+
+        ' References in the same assembly
+        Class -down-* ProjectAssembly
+        Method -down-* Class
+        Constructor -down-* Class
+        Property -down-* Class
+    }
+
+    ' References through different assemblies
+    Program --> PlantUmlConverter
+    Program --> Reflector
+    Program --> FileWriter
+    PlantUmlConverter -down-> ProjectAssembly
+    PlantUmlConverter .up.|> IConverter
+    Program -up-> ApplicationSettings
+
+@enduml
