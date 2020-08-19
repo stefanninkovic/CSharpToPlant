@@ -1,0 +1,13 @@
+@startuml SequenceDiagram
+
+    actor User
+
+    User -> GUI : Input Data
+    User -> GUI : Start action
+    GUI -> Reflector : Fetch all Assemblies and Types
+    Reflector -> GUI : Returned all assemblies and Types
+    GUI -> PlantUmlConverter : Convert Assemblies to PlantUml-Code
+    PlantUmlConverter -> GUI : Returned entire PlantUml-Code
+    GUI -> FileWriter : Write PlantUml-Code into a file
+
+@enduml
