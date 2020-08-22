@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "View.Cli", "src\View.Cli\Vi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common.Data", "src\Common.Data\Common.Data.csproj", "{BA55B8A6-B027-484F-B61C-B76E4D218256}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ninkovic.Stefan.CSharpToPlant.Business.File", "src\Business.File\Ninkovic.Stefan.CSharpToPlant.Business.File.csproj", "{303A04DE-5AF9-460F-959F-E628965CCD04}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business.File", "src\Business.File\Business.File.csproj", "{303A04DE-5AF9-460F-959F-E628965CCD04}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
