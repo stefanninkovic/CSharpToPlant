@@ -13,4 +13,11 @@
     <OutputPath>..\..\build\Release</OutputPath>
     <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
   </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Business.Api\Business.Api.csproj" />
+    <ProjectReference Include="..\Business.Convert\Business.Convert.csproj" />
+    <ProjectReference Include="..\Business.File\Business.File.csproj" />
+    <ProjectReference Include="..\Business.Reflection\Business.Reflection.csproj" />
+    <ProjectReference Include="..\Common.Data\Common.Data.csproj" />
+  </ItemGroup>
 </Project>

@@ -43,7 +43,7 @@ namespace Ninkovic.Stefan.CSharpToPlant.Common.Data
 
         public override string ToString()
         {
-            var header = "class" + Type.Name + " { ";
+            var header = "class " + Type.Name + " { " + Environment.NewLine;
             var footer = "} " + Environment.NewLine;
             string body = string.Empty;
 
