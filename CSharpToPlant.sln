@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30320.27
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "View.Gui", "src\View.Gui\View.Gui.csproj", "{6E6E63AA-39A7-4CD9-9DB2-F7065A299839}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "View.Cli", "src\View.Cli\View.Cli.csproj", "{966DC804-DF16-4E02-9FDF-B8A9815D1223}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "View.Cli", "src\View.Cli\View.Cli.csproj", "{966DC804-DF16-4E02-9FDF-B8A9815D1223}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common.Data", "src\Common.Data\Common.Data.csproj", "{BA55B8A6-B027-484F-B61C-B76E4D218256}"
 EndProject
@@ -13,7 +13,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business.File", "src\Busine
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business.Convert", "src\Business.Convert\Business.Convert.csproj", "{64F2CE70-11A7-4EF0-B692-5E935F52C7A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business.Reflection", "src\Ninkovic.Stefan.CSharpToPlant.Business.Reflection\Business.Reflection.csproj", "{8093EA22-2620-41DE-9FF1-E2F41F758A34}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business.Reflection", "src\Business.Reflection\Business.Reflection.csproj", "{8093EA22-2620-41DE-9FF1-E2F41F758A34}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
