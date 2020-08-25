@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.Reflection;
 
 namespace Ninkovic.Stefan.CSharpToPlant.Common.Data
@@ -26,11 +27,12 @@ namespace Ninkovic.Stefan.CSharpToPlant.Common.Data
         public ProjectAssembly(Assembly assembly)
         {
             Assembly = assembly;
+            ProjectTypes = new Collection<ProjectType>();
         }
 
         public override string ToString()
         {
-            var header = "package" + Assembly.GetName() + " { ";
+            var header = "package " + Assembly.GetName().Name + " { " + Environment.NewLine;
             var footer = "} " + Environment.NewLine;
             string body = string.Empty;
 
