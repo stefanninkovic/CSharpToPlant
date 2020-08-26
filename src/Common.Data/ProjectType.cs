@@ -43,23 +43,23 @@ namespace Ninkovic.Stefan.CSharpToPlant.Common.Data
 
         public override string ToString()
         {
-            var header = "class " + Type.Name + " { " + Environment.NewLine;
-            var footer = "} " + Environment.NewLine;
+            var header = "\tclass " + Type.Name + " { " + Environment.NewLine;
+            var footer = "\t} " + Environment.NewLine;
             string body = string.Empty;
 
             foreach (var projectField in ProjectFields)
             {
-                body += projectField + Environment.NewLine;
+                body += "\t\t" + projectField + Environment.NewLine;
             }
 
             foreach (var projectConstructor in ProjectConstructors)
             {
-                body += projectConstructor + Environment.NewLine;
+                body += "\t\t" + projectConstructor + Environment.NewLine;
             }
 
             foreach (var projectMethod in ProjectMethods)
             {
-                body += projectMethod + Environment.NewLine;
+                body += "\t\t" + projectMethod + Environment.NewLine;
             }
 
             return header + body + footer;
