@@ -1,5 +1,4 @@
-﻿using Ninkovic.Stefan.CSharpToPlant.Business.Api;
-using Ninkovic.Stefan.CSharpToPlant.Common.Data;
+﻿using Ninkovic.Stefan.CSharpToPlant.Common.Data;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Reflection;
@@ -9,14 +8,14 @@ namespace Ninkovic.Stefan.CSharpToPlant.Business.Convert
     /// <summary>
     /// Converter for managing convertions associated to a Class-Diagran
     /// </summary>
-    public class ClassDiagramConverter : IConvert
+    public class ProjectAssemblyConverter
     {
         private readonly TypeHandler _typeHandler;
 
         /// <summary>
         /// Constructor
         /// </summary>
-        public ClassDiagramConverter()
+        public ProjectAssemblyConverter()
         {
             _typeHandler = new TypeHandler();
         }
@@ -35,7 +34,7 @@ namespace Ninkovic.Stefan.CSharpToPlant.Business.Convert
             {
                 var projectAssembly = new ProjectAssembly(assembly);
 
-                foreach (var type in _typeHandler.GetTypes(assembly))
+                foreach (var type in _typeHandler.GetAssemblyTypes(assembly))
                 {
                     if (type == null) continue;
                     var projectType = new ProjectType(type);

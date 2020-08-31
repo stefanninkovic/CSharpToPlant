@@ -29,19 +29,5 @@ namespace Ninkovic.Stefan.CSharpToPlant.Common.Data
             Assembly = assembly;
             ProjectTypes = new Collection<ProjectType>();
         }
-
-        public override string ToString()
-        {
-            var header = "package " + Assembly.GetName().Name + " { " + Environment.NewLine;
-            var footer = "} " + Environment.NewLine;
-            string body = string.Empty;
-
-            foreach (var projectType in ProjectTypes)
-            {
-                body += projectType + Environment.NewLine;
-            }
-
-            return header + body + footer;
-        }
     }
 }
