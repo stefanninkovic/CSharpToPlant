@@ -30,8 +30,10 @@
     <Reference Include="System" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ClassDiagramConverter.cs" />
+    <Compile Include="Convert\ProjectAssemblyConverter.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TypeHandler.cs" />
+    <Compile Include="Convert\ClassDiagramConverter.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Business.Api\Business.Api.csproj">

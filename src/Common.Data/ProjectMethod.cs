@@ -20,29 +20,5 @@ namespace Ninkovic.Stefan.CSharpToPlant.Common.Data
         {
             Value = value;
         }
-
-        public override string ToString()
-        {
-            var visibility = string.Empty;
-            var body = string.Empty;
-
-            if (Value.IsPublic)
-                visibility = "+";
-            else if (Value.IsPrivate)
-                visibility = "-";
-            else if (Value.IsFamily)
-                visibility = "#";
-
-            for (int i = 0; i < Value.GetParameters().Length; i++)
-            {
-                body += $"{Value.GetParameters()[i].ParameterType} {Value.GetParameters()[i].Name} ";
-                if (i != Value.GetParameters().Length - 1)
-                {
-                    body += ", ";
-                }
-            }
-
-            return $"{ visibility } { Value.Name }({body}) : {Value.ReturnType}";
-        }
     }
 }
